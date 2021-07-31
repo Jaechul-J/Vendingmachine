@@ -1,0 +1,77 @@
+Enter the number of stockpiles: 2
+
+Enter the number of sodas: 
+2
+Enter the price of sodas:
+1.60
+Enter the ID of sodas:
+50
+
+Enter the number of sodas:
+1
+Enter the price of sodas:
+1.50
+Enter the ID of sodas:
+60
+
+
+Do you want to purchase a soda:
+yes
+Enter the ID of stockpile:
+50
+Do you insert bill, quarter, dime, or nickel?
+bill
+Do you insert bill, quarter, dime, or nickel?
+quarter
+Do you insert bill, quarter, dime, or nickel?
+quarter
+Do you insert bill, quarter, dime, or nickel?
+quarter
+
+There is not an enough change to make the difference.
+Soda is purchased successfully.
+Take soda from beverage receiver.
+
+Do you want to purchase a soda:
+yes
+Enter the ID of stockpile:
+60
+Do you insert bill, quarter, dime, or nickel?
+bill
+Do you insert bill, quarter, dime, or nickel?
+quarter
+Do you insert bill, quarter, dime, or nickel?
+dime
+Do you insert bill, quarter, dime, or nickel?
+dime
+Do you insert bill, quarter, dime, or nickel?
+dime
+
+There is not an enough change to make the difference.
+Soda is purchased successfully.
+Take soda from beverage receiver.
+
+Do you want to purchase a soda:
+yes
+Enter the ID of stockpile:
+50
+Do you insert bill, quarter, dime, or nickel?
+bill
+Do you insert bill, quarter, dime, or nickel?
+bill
+
+There is not an enough change to make the difference.
+Take 1 quarter from change receiver. 
+Take 1 dime from change receiver.
+Soda is purchased successfully.
+Take soda from beverage receiver.
+
+
+Do you want to purchase a soda:
+yes
+Enter the ID of stockpile:
+50
+Stockpile has run out of soda.
+
+
+Do you want to purchase a soda: no
