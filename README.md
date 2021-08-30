@@ -18,5 +18,3 @@ item is purchased successfully
 • a change receiver where the machine drops change
 
 • a change light that turns on when the vending machine can not make enough change
-
-Takeaways :
